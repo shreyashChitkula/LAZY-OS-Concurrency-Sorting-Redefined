@@ -170,3 +170,8 @@ This project exemplifies the principles of efficient system design and resource 
 
 Enjoy exploring the world of LAZY Corp’s innovative operating system solutions!
 
+## **Team**
+
+1. Ch.Shreyash
+2. Maryala Sai Teja
+
